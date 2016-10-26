@@ -20,6 +20,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="3dip"
         android:text="当前数据加载失败!"
-        android:textColor="@color/color_tab_title"/>
+        android:textColor="@color/tab_title"/>
 
 </LinearLayout>

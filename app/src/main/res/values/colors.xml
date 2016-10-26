@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="white">#FFFFFF</color>
-    <color name="color_black">#000000</color>
-    <color name="color_tab_title">#777777</color>
-    <color name="color_head_title">#AAAAAA</color>
-    <color name="color_transparent">#00000000</color>
-    <color name="color_lv_selector">#aaeeeeee</color>
+    <color name="black">#000000</color>
+    <color name="gray">#e6e6e6</color>
+    <color name="tab_title">#777777</color>
+    <color name="head_title">#AAAAAA</color>
+    <color name="transparent">#00000000</color>
+    <color name="lv_selector">#aaeeeeee</color>
 
     <!--标签背景颜色-->
     <color name="mask_tags_1">#f45170</color>

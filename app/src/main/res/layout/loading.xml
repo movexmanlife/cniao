@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="3dip"
             android:text="当前数据正在加载中..."
-            android:textColor="@color/color_tab_title" />
+            android:textColor="@color/tab_title" />
     </LinearLayout>
 
 </LinearLayout>

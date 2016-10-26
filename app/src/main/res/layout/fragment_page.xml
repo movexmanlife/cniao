@@ -10,6 +10,6 @@
         android:layout_height="fill_parent"
         android:gravity="center"
         android:text="我是子页面PageFragment..."
-        android:textColor="@color/color_black" />
+        android:textColor="@color/black" />
 
 </LinearLayout>
